@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1846521632/MediaPicker-master.iml" filepath="$PROJECT_DIR$/.idea/modules/-1846521632/MediaPicker-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1917601678/MediaPicker-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1917601678/MediaPicker-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MediaPicker-master.libary.iml" filepath="$PROJECT_DIR$/.idea/modules/MediaPicker-master.libary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/582416759/MediaPicker-master.rxjava.iml" filepath="$PROJECT_DIR$/.idea/modules/582416759/MediaPicker-master.rxjava.iml" />
+    </modules>
+  </component>
+</project>
